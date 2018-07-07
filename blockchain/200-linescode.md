@@ -3,4 +3,14 @@
 
 #### EXCERPTS
 
-![images/200-linescode-A.png]
+!(images/200-linescode-A.png)
+
+        class Block {
+            constructor(index, previousHash, timestamp, data, hash) {
+                this.index = index;
+                this.previousHash = previousHash.toString();
+                this.timestamp = timestamp;
+                this.data = data;
+                this.hash = hash.toString();
+            }
+        }
