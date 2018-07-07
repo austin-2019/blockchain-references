@@ -2,7 +2,7 @@
 #### A blockchain in 200 lines of code
 
 #### EXCERPTS
-![""](/images/200-linescode-A.png)
+![](images/200-linescode-A.png)
 
 
 
